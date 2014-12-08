@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class move : MonoBehaviour {
+public class playerMove : MonoBehaviour {
+
 	Animator anim;
 	Rigidbody2D playerRigidBody2D;
 	int floorMask;
@@ -27,7 +28,7 @@ public class move : MonoBehaviour {
 			direction.y -= 0.1f;
 			anim.SetBool ("isMove", true);
 		}
-
+		
 		else if (Input.GetKey (KeyCode.RightArrow) == true) {
 			direction.x += 0.1f;
 			anim.SetBool ("isMove", true);
@@ -39,9 +40,9 @@ public class move : MonoBehaviour {
 			direction.x= 0;
 			direction.y=0;
 			anim.SetBool ("isMove",false);
-		//That turns everything off if nothing is being pressed.
+			//That turns everything off if nothing is being pressed.
 		}
-	gameObject.transform.Translate (direction);
+		gameObject.transform.Translate (direction);
 	}
 	//This is supposed to make the player change direction when they follow the mouse, but it's not working yet.
 	void Turning ()
@@ -64,4 +65,3 @@ public class move : MonoBehaviour {
 		Turning ();
 	}
 }
-
