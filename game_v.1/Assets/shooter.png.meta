@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 69fad145f87a9484697cb2fc87d3f787
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shooter_0
+    21300002: shooter_1
+    21300004: shooter_2
+    21300006: shooter_3
+    21300008: shooter_4
+    21300010: shooter_5
+    21300012: shooter_6
+    21300014: shooter_7
+    21300016: shooter_8
+    21300018: shooter_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: shooter_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shooter_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 10
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shooter_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 10
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shooter_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 10
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shooter_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 10
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shooter_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 10
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shooter_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 10
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shooter_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 10
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shooter_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 10
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shooter_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 10
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
